@@ -14,6 +14,7 @@ A simple currency converter component built using React and TypeScript.
 
 ## Usage
 This component can be imported and used inside any React application.
-
+## Preview
+![Currency Converter](./screenshot.png)
 ```ts
 import CurrencyConverter from "./CurrencyConverter";
